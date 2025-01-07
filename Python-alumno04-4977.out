@@ -1,0 +1,47 @@
+[22;0t]0;IPython: alumno04/lab4
+Running with 100000000 elements.
+
+Time taken by reduction operation: 5.513933420181274 seconds
+5.62 s ± 46.8 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+ 	 Computing the sum of numbers in the range [0, value): 4999999950000000
+
+
+Time taken by reduction operation: 4.553576946258545 seconds
+4.09 s ± 42.7 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+ 	 Computing the sum of numbers in the range [0, value): 4999999950000000
+
+------------------------------------------------------------------------------------
+
+Time taken by reduction operation: 0.7923705577850342 seconds
+684 ms ± 91.7 µs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+ 	 Computing the sum of numbers in the range [0, value): 4999999950000000
+
+
+Time taken by reduction operation: 20.990861892700195 seconds
+21.5 s ± 411 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+ 	 Computing the sum of numbers in the range [0, value): 4999999950000000
+
+------------------------------------------------------------------------------------
+
+Time taken by reduction operation: 16.808846712112427 seconds
+17.8 s ± 197 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+ 	 Computing the sum of numbers in the range [0, value): 4999999950000000
+
+
+Time taken by reduction operation: 2.867943286895752 seconds
+68.6 ms ± 71.9 µs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+
+ 	 Computing the sum of numbers in the range [0, value): 4999999950000000
+
+------------------------------------------------------------------------------------
+
+Time taken by reduction operation: 0.2855241298675537 seconds
+64.4 ms ± 2.34 ms per loop (mean ± std. dev. of 2 runs, 10 loops each)
+
+ 	 Computing the sum of numbers in the range [0, value): 4999999950000000
+
